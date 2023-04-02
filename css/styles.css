@@ -1,0 +1,38 @@
+	
+/* Must be in alphabetical order */
+/*******************************TAG SELECTORS*******************************/
+
+	body {
+			background-color: #EAF6F6;
+			font-family: serif;
+			color: #2B3D5B;
+			text-aling: center;
+
+	}
+
+	h1 { 
+		color: #15253F;
+	}
+
+	h3 {
+
+		color: #2B3D5B;
+	}
+
+	hr {
+			background-color: white;
+			/*	border-style: none;
+				border-top-style: dotted;
+				border-color: grey;
+				border-width: 3px;
+				width: 5%; 
+				height: 1px;  */
+	}
+/*******************************CLASS SELECTORS*******************************/
+
+.hobbies-picture {
+	height: 100px;
+	width: 100px;
+}
+
+/*******************************ID SELECTORS*******************************/
